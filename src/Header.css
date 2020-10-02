@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray ;
+}
+
+.header_logo {
+    height: 30 px;
+    object-fit: contain; 
+    
+}
+
+.header_icon{
+    padding: 50 px;
+}
+
